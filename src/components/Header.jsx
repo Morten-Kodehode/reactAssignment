@@ -1,6 +1,8 @@
+import "../index.css"
+
 function Header() {
   return (
-    <h1>React Component</h1>
+    <h1 className="headerText">React Component</h1>
   )
 }
 
